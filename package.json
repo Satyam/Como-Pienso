@@ -1,0 +1,20 @@
+{
+  "name": "Como-Pienso",
+  "version": "1.0.0",
+  "description": "Algunas pocas ideas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Satyam/Como-Pienso.git"
+  },
+  "keywords": [],
+  "author": "Daniel Barreiro <satyam@satyam.com.ar> (Satyam)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Satyam/Como-Pienso/issues"
+  },
+  "homepage": "https://github.com/Satyam/Como-Pienso#readme"
+}
