@@ -37,19 +37,8 @@ class Footer extends React.Component {
           </a>
           <div>
             <h5>Acceso Rápido</h5>
-            <a href={this.docUrl('Intro.html', this.props.language)}>
-              Introducción
-            </a>
-          </div>
-          <div>
-            <h5>Manuscrito</h5>
-            <a
-              href="https://github.com/Satyam/Como-Pienso"
-              target="_blank"
-              rel="noreferrer noopener"
-            >
-              Original en GitHub
-            </a>
+            <a href={this.docUrl('intro')}>Introducción</a>
+            <a href={this.docUrl('toc')}>Índice</a>
           </div>
           <div>
             <h5>More</h5>
@@ -68,19 +57,6 @@ class Footer extends React.Component {
           </div>
         </section>
 
-        <a
-          href="https://opensource.facebook.com/"
-          target="_blank"
-          rel="noreferrer noopener"
-          className="fbOpenSource"
-        >
-          <img
-            src={`${this.props.config.baseUrl}img/oss_logo.png`}
-            alt="Facebook Open Source"
-            width="170"
-            height="45"
-          />
-        </a>
         <section className="copyright">{this.props.config.copyright}</section>
       </footer>
     );

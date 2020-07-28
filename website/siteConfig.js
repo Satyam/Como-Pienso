@@ -11,8 +11,8 @@
 const siteConfig = {
   title: 'Cómo Pienso', // Title for your website.
   tagline: 'Rumiando algunas ideas',
-  url: 'https://Satyam.github.io', // Your website URL
-  baseUrl: '/Como-pienso', // Base URL for your project */
+  url: 'https://satyam.github.io', // Your website URL
+  baseUrl: '/Como-Pienso/', // Base URL for your project */
   // For github.io type URLs, you would set the url and baseUrl like:
   //   url: 'https://facebook.github.io',
   //   baseUrl: '/test-site/',
@@ -27,8 +27,9 @@ const siteConfig = {
   // For no header links in the top nav bar -> headerLinks: [],
   headerLinks: [
     { doc: 'intro', label: 'Introducción' },
-    { page: 'help', label: 'Help' },
-    { blog: false, label: 'Blog' },
+    { doc: 'toc', label: 'Índice' },
+    // { page: 'help', label: 'Help' },
+    // { blog: false, label: 'Blog' },
   ],
 
   /* path to images for header/footer */
@@ -65,7 +66,7 @@ const siteConfig = {
   },
 
   // Add custom scripts here that would be placed in <script> tags.
-  scripts: ['https://buttons.github.io/buttons.js'],
+  // scripts: ['https://buttons.github.io/buttons.js'],
 
   // On page navigation for the current documentation page.
   onPageNav: 'separate',
