@@ -1,8 +1,8 @@
 {
   "docs": {
-    "Introducción": ["intro"]
-  },
-  "docs-other": {
-    "First Category": ["doc4", "doc5"]
+    "Introducción": ["intro"],
+    "Economía": ["impuestos", "vivienda"],
+    "Justicia": ["justicia"],
+    "Educación": ["educacion"]
   }
 }

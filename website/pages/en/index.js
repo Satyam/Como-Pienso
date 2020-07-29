@@ -16,6 +16,9 @@ class Index extends React.Component {
             />
           </a>
           <p>Rumiando algunas ideas</p>
+          <div>
+            <a href={`${baseUrl}intro`}>Introducción</a>
+          </div>
         </div>
       </div>
     );
