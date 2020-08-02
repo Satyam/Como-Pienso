@@ -38,7 +38,6 @@ class Footer extends React.Component {
           <div>
             <h5>Acceso Rápido</h5>
             <a href={this.docUrl('intro')}>Introducción</a>
-            <a href={this.docUrl('toc')}>Índice</a>
           </div>
           <div>
             <h5>More</h5>

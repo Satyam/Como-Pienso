@@ -7,9 +7,11 @@
     "write-translations": "docusaurus-write-translations",
     "version": "docusaurus-version",
     "rename-version": "docusaurus-rename-version",
-    "send": "GIT_USER=Satyam  CURRENT_BRANCH=master USE_SSH=true yarn run publish-gh-pages"
+    "send": "GIT_USER=Satyam  CURRENT_BRANCH=master USE_SSH=true yarn run publish-gh-pages",
+    "pdf": "docusaurus-pdf http://localhost:3000/Como-Pienso/intro/ static/Como-Pienso.pdf"
   },
   "devDependencies": {
-    "docusaurus": "^1.14.4"
+    "docusaurus": "^1.14.4",
+    "docusaurus-pdf": "^1.2.0"
   }
 }

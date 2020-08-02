@@ -60,3 +60,43 @@ Adicionalemente el mantener esos estudiantes fuera de la categoría _ni-ni_ impl
 5. Una postergación absurda del estado de dependencia del estudiante, en lugar de madurar y convertirse en parte útil de la sociedad.
 
 Por ello, las becas han de ser lo que siempre fueron, una facilidad para aquellos que quieren y merecen estudiar pero que no tienen los medios.
+
+### Universidad Pública vs. Privada
+
+Creo que hay espacio para las dos, la pública ofreciendo la mejor educación y la privada tomando el excedente. ¿Cómo es eso? La universidad pública ha de concentrarse en la educación del número necesario de profesionales de cada materia. En base a estudios demográficos, análisis del potencial de crecimiento de la industria y comercio, y considerando un cierto margen para imprevistos, la universidad pública ha de ofrecer un cierto número de plazas en cada una de las especialidades, contemplando, además, las posibles deserciones en los varios años de estudio.
+
+Estas plazas se eofrecerán a los mejores, determinados por exámenes de acceso.
+
+¿Por qué este sistema tan selectivo? Simplemente porque es lo que en la práctica terminará ocurriendo cuando los estudiantes terminen los estudios y busquen conseguir un trabajo. Las empresas los seleccionaran con criterios, que bien podrían aplicar las universidades para empezar, y evitar ingenieros-taxistas o licenciados en arte-baristas. No es más que un reflejo de la realidad.
+
+Las universidades privadas podrán ofrecer los mismos estudios, pero a precios de mercado. ¿Una familia tiene dinero y quiere que si hijo, por lo demás un mediocreo sino inútil en cuestiones académicos, tenga un título? Pues es muy libre de pagar, sin cargar con ello al erario público con su capricho por el estatus. Además servirá para cubrir cualquier escases que pudiera producirse en la demanda de profesionales que la pública hubiera
+
+¿Eso quiere decir que la universidad pública es gratuita? No del todo. Parcialmente subvencionada, pero el alumno ha de pagar algo. Como lo sabe cualquier psicólogo, el paciente debe pagar, incluso por las sesiones a las que falta. De esta manera tiene un incentivo para obtener un beneficio y un desincentivo a escaquearse. Hago la comparación con la psicología porque en ambos casos, la participación y el compromiso del paciente o el estudiante en el proceso es vital, a diferencia del médico que, como dicen los veterinarios, es un veterinario que se especialisa en una sola especie. Un caballo no tiene necesidad de entender o cooperar en su sanación. Otro de médicos vs. veterinarios:
+
+> El veterinario va al médico.
+> El médico le pregunta, 'Digame, ¿qué le pasa?'
+> '¡Así cualquiera!', responde indignado el veterinario.
+
+El paciente de un psicólogo y el estudiante deben participar del proceso. Las tasas se deben fijar bajas para la primera ves que se cursa una materia y la primera vez que se rinde exámen. Debe haber un recargo por sucesivos intentos de rendir cada materia.
+
+¿Debe haber becas? Totalmente, para la excelencia académica, sin lugar a dudas. La beca ha de ser ante todo un galardón, algo que merezca ser mencionado en el curriculum. Las universidades deben procurar el dinero de las becas de la industria privada pues es bueno que inviertan por anticipado en los egresados que se incorporen a ellas. Además, la beca beneficia la imagen tanto del que la recibe como del que la otorga. Como el derecho de patrocinar un estadio deportivos, como los varios que llevan el nombre de la aseguradora Allianz en su denominación [ver listado](https://en.wikipedia.org/wiki/Allianz_Stadium). La universidad, obviamente, ha de recibir una parte de este aporte empresarial.
+
+### Formación Profesional
+
+¿Por qué en lugar de tener ingenieros-taxistas, no tenemos taxistas-taxistas? ¿No tiene más sentido que un profesional, de cualquier nivel, no pueda recibir la formación más apropiada para su oficio y lo pueda ejercer con orgullo y la mejor capacitación, a haber estudiado para un título superior sin salida laboral, y deba haberse resignado con pesar a algo por debajo de sus aspiraciones, obligado a improvisar sin el respaldo de ninguna capacitación?
+
+Nuevamente, es cuestión de acudir a la realidad. Si un país va a tener cierto número de médicos, ingenieros, mecánicos, torneros, camareros y barmen, ¿por qué no formar las cantidades apropiadas, otorgándoles la dignidad y la formación que cada una de ellas requiere? ¿Por qué relegamos a los artesanos, mecánicos y otros que no disponen de un título superior, y los oficios que estos desempeñan, a una categoría inferior? ¿Por qué alentamos a los jóvenes a lograr un título superior si sabemos que la economía del país no podrá ofrecerle un trabajo acorde?
+
+### Coste
+
+Los estudiantes universitarios deben pagar por sus estudios, no el coste total pero sí el coste directo de la enseñanza. Otros costes indirectos como las sobre-dimensionadas y, por lo demás, mayormente obsoletos edificios universitarios, o toda la burocracia de las que no tienen culpa deberán ser solventados sólo parcialmente por los alumnos.
+
+Parecería que el estudio universitario estaría disponible para los más ricos. No es esa la intención en absoluto. Un título universitario ha de traducirse en una gran mejora de los ingresos. Quien se aboca a ello espera ganar dinero. Es justo que invierta como el que pone un chiringuito pagando los costes iniciales, a fin de ganar un dinero a futuro. Al igual que cualquier comerciante, el estudiante debe poder acceder a variados medios de financiación. Un estudiante que promete ha de ser una buena inversión, ya fuera para un préstamo bancario, una beca empresarial condicionada a un contrato una vez diplomado o una ayuda intra-familiar.
+
+Por ello es necesario que la educación no se masifique, que sea capaz de abastecer la demanda de profesionales del mercado y un poquito extra por errores de las proyecciones (más el aporte de las instituciónes privadas), de tal manera de que el título profesional tenga un valor de mercado razonable.
+
+De ninguna manera digo que el estado prohiba estudiar, lo que digo es que no pague por caprichos o calienta-sillas. Que asegure una provisión suficiente de profesionales, y un poco extra por la expectativa de un crecimiento mejor de lo esperado o condiciones cambiantes imprevisibles, pero no debe dilapidar dinero público en titulejos sin valor. Masificar el estudio superior mediante accesos ilimitados, becas inmerecidas y títulos sin sentido es como generar inflación monetaria imprimiendo dinero sin respaldo, que lo único que hace es devaluar y a la larga destruir la moneda. En este caso se estarían imprimiendo diplomas universitarios.
+
+### Ingreso
+
+Por ello, el ingreso universitario no ha de ser por nota sino por cupos. Sólo habrán de ingresar un número determinado anualmente, variable según los pronósticos del mercado. Las plazas se asignarán por nota, por lo que no es predecible la nota mínima, que corresponderá a la nota que haya sacado el último en llenar el cupo. En caso de que varios tuvieran la misma nota (hasta el último decimal, sin redondeo) todos los de esa nota ingresarán, pues cabe dentro del extra _por si acaso_ de la estimación.
