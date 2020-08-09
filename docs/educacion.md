@@ -18,7 +18,7 @@ Hay varias áreas que se espera que el docente sea capaz de acometer
 4. Manejo del alumnado
 5. Evaluación
 
-Por necesidad, no todos los maestros tienen por que ser capaces de hacer todo esto de la mejor forma. Cuando la expectativa de enseñanza no era más que leer, escribir y hacer unas pocas cuentas, una persona mínimamente cualificada podía logarlo. Esto ya no es posible, ni necesario ni deseable.
+Por necesidad, no todos los maestros tienen por que ser capaces de hacer todo esto de la mejor forma. Cuando la expectativa de enseñanza no era más que leer, escribir y hacer unas pocas cuentas, una persona mínimamente cualificada podía lograrlo. Esto ya no es posible, ni necesario ni deseable.
 
 En el mundo conectado, nadie está sólo, nadie tiene por qué enfrentarse a una clase sin respaldo, cualquiera puede acudir al sistema para suplementar su carencias.
 
@@ -26,7 +26,7 @@ La preparación del material actualmente se hace fuera de la escuela, en las edi
 
 La presentación debería hacerse mediante sistemas informáticos a los cuales los jóvenes están ya suficientemente acostumbrados. Hay docentes que son _showmen_, otros son aburridos. Un ejemplo tonto, viviendo en los EE.UU. tuve una infracción de tránsito por la que debía asistir a una clase de refresco de educación vial. Charlando con el instructor después de la clase, me contó que él era actor y que dar ese tipo de clases era una forma de asegurarse un pequeño ingreso entre producciones. Quizás fuera pésimo conductor, imagino que no será un experto ni conocerá toda la legislación vial, no le pregunté, pero su habilidad estaba en presentar el material de manera amena y mantener el interés de los estudiantes. Efectivamente, ese instructor era un _showman_.
 
-Hay docentes que cuentan con todo el material didáctico necesario para hacerlo, muchos no. ¿Qué mejor que, al igual que las múltiples editoriales generan manuales de estudio, sean varios los estudios audiovisuales que produzcan las mejores presentaciones del material requerido? ¿O que un departamento del ministerio certifique para su uso en el aula la tremenda cantidad de material ya existente? Para mi fue un lujo apender del mismo [Richard Feynman](https://es.wikipedia.org/wiki/Richard_Feynman), premio Nobel de física, algo tan tremendamente trivial cómo los trenes se mantienen en la vía. Es material para colegio secundario y Feynman tiene muchísimos más vídeos más profundos, pero como Youtube surgió mucho después que Albert Einstein muriera (de hecho, ocurrió meses antes de que yo naciera), aprender de alguien que hablaba de tu a tu con Einstein no está mal. O ver Cosmos, con el mismísimo Carl Sagan, sabiendo que ese tío realmente sabe de lo que está hablando.
+Hay docentes que cuentan con todo el material didáctico necesario para hacerlo, muchos no. ¿Qué mejor que, al igual que las múltiples editoriales generan manuales de estudio, sean varios los estudios audiovisuales que produzcan las mejores presentaciones del material requerido? ¿O que un departamento del ministerio certifique para su uso en el aula la tremenda cantidad de material ya existente? Para mi fue un lujo aprender del mismo [Richard Feynman](https://es.wikipedia.org/wiki/Richard_Feynman), premio Nobel de física, algo tan tremendamente trivial cómo los trenes se mantienen en la vía. Es material para colegio secundario y Feynman tiene muchísimos más vídeos más profundos, pero como Youtube surgió mucho después que Albert Einstein muriera (de hecho, ocurrió meses antes de que yo naciera), aprender de alguien que hablaba de tu a tu con Einstein no está mal. O ver Cosmos, con el mismísimo Carl Sagan, sabiendo que ese tío realmente sabe de lo que está hablando.
 
 Y aquí ya llegamos al aula. Es el docente frente a la clase el que debe seleccionar dentro de las varias opciones para cada tema, el que mejor se adecúe a su alumnado y lo exhiba o requiera a sus alumnos que lo vean, en función de las necesidades, entorno o habilidades de sus alumnos. Es importante que el docente frente al alumno sea capaz de disponer de múltiples opciones para cada tema, para así poder ver qué es lo que mejor se adapta.
 
@@ -51,7 +51,7 @@ Tenemos toda una generación con un gran porcentaje de _ni-ni_, que ni estudia n
 
 Todo esto tiene graves consecuencias. La primera es una mayor carga para el sistema educativo. La consecuente masificación baja el nivel de las clases para acomodarse a estos becarios inmerecidos. No puede ofrecer las facilidades, aulas, laboratorios, etc, que necesitarían. Tras haber contratado a los mejores profesores, necesariamente tiene que ampliar el abanico a profesionales de menor nivel. El bajo nivel de las clases desincentiva a los mejores profesores, generando una realimentación negativa en todo el sistema.
 
-Adicionalemente el mantener esos estudiantes fuera de la categoría _ni-ni_ implica:
+Adicionalmente el mantener esos estudiantes fuera de la categoría _ni-ni_ implica:
 
 1. Obviamente, un perjuicio económico inmediato por el coste de estas becas.
 2. Una proliferación de titulejos que no sirven para nada.
@@ -65,21 +65,21 @@ Por ello, las becas han de ser lo que siempre fueron, una facilidad para aquello
 
 Creo que hay espacio para las dos, la pública ofreciendo la mejor educación y la privada tomando el excedente. ¿Cómo es eso? La universidad pública ha de concentrarse en la educación del número necesario de profesionales de cada materia. En base a estudios demográficos, análisis del potencial de crecimiento de la industria y comercio, y considerando un cierto margen para imprevistos, la universidad pública ha de ofrecer un cierto número de plazas en cada una de las especialidades, contemplando, además, las posibles deserciones en los varios años de estudio.
 
-Estas plazas se eofrecerán a los mejores, determinados por exámenes de acceso.
+Estas plazas se ofrecerán a los mejores, determinados por exámenes de acceso.
 
 ¿Por qué este sistema tan selectivo? Simplemente porque es lo que en la práctica terminará ocurriendo cuando los estudiantes terminen los estudios y busquen conseguir un trabajo. Las empresas los seleccionaran con criterios, que bien podrían aplicar las universidades para empezar, y evitar ingenieros-taxistas o licenciados en arte-baristas. No es más que un reflejo de la realidad.
 
-Las universidades privadas podrán ofrecer los mismos estudios, pero a precios de mercado. ¿Una familia tiene dinero y quiere que si hijo, por lo demás un mediocreo sino inútil en cuestiones académicos, tenga un título? Pues es muy libre de pagar, sin cargar con ello al erario público con su capricho por el estatus. Además servirá para cubrir cualquier escases que pudiera producirse en la demanda de profesionales que la pública hubiera
+Las universidades privadas podrán ofrecer los mismos estudios, pero a precios de mercado. ¿Una familia tiene dinero y quiere que si hijo, por lo demás un mediocre sino inútil en cuestiones académicos, tenga un título? Pues es muy libre de pagar, sin cargar con ello al erario público con su capricho por el estatus. Además servirá para cubrir cualquier escasés que pudiera producirse en la demanda de profesionales que la pública hubiera
 
-¿Eso quiere decir que la universidad pública es gratuita? No del todo. Parcialmente subvencionada, pero el alumno ha de pagar algo. Como lo sabe cualquier psicólogo, el paciente debe pagar, incluso por las sesiones a las que falta. De esta manera tiene un incentivo para obtener un beneficio y un desincentivo a escaquearse. Hago la comparación con la psicología porque en ambos casos, la participación y el compromiso del paciente o el estudiante en el proceso es vital, a diferencia del médico que, como dicen los veterinarios, es un veterinario que se especialisa en una sola especie. Un caballo no tiene necesidad de entender o cooperar en su sanación. Otro de médicos vs. veterinarios:
+¿Eso quiere decir que la universidad pública es gratuita? No del todo. Parcialmente subvencionada, pero el alumno ha de pagar algo. Como lo sabe cualquier psicólogo, el paciente debe pagar, incluso por las sesiones a las que falta. De esta manera tiene un incentivo para obtener un beneficio y un desincentivo a escaquearse. Hago la comparación con la psicología porque en ambos casos, la participación y el compromiso del paciente o el estudiante en el proceso es vital, a diferencia del médico que, como dicen los veterinarios, es un veterinario que se especialista en una sola especie. Un caballo no tiene necesidad de entender o cooperar en su sanación. Otro de médicos vs. veterinarios:
 
 > El veterinario va al médico.
-> El médico le pregunta, 'Digame, ¿qué le pasa?'
+> El médico le pregunta, 'Dígame, ¿qué le pasa?'
 > '¡Así cualquiera!', responde indignado el veterinario.
 
 El paciente de un psicólogo y el estudiante deben participar del proceso. Las tasas se deben fijar bajas para la primera ves que se cursa una materia y la primera vez que se rinde exámen. Debe haber un recargo por sucesivos intentos de rendir cada materia.
 
-¿Debe haber becas? Totalmente, para la excelencia académica, sin lugar a dudas. La beca ha de ser ante todo un galardón, algo que merezca ser mencionado en el curriculum. Las universidades deben procurar el dinero de las becas de la industria privada pues es bueno que inviertan por anticipado en los egresados que se incorporen a ellas. Además, la beca beneficia la imagen tanto del que la recibe como del que la otorga. Como el derecho de patrocinar un estadio deportivos, como los varios que llevan el nombre de la aseguradora Allianz en su denominación [ver listado](https://en.wikipedia.org/wiki/Allianz_Stadium). La universidad, obviamente, ha de recibir una parte de este aporte empresarial.
+¿Debe haber becas? Totalmente, para la excelencia académica, sin lugar a dudas. La beca ha de ser ante todo un galardón, algo que merezca ser mencionado en el currículo. Las universidades deben procurar el dinero de las becas de la industria privada pues es bueno que inviertan por anticipado en los egresados que se incorporen a ellas. Además, la beca beneficia la imagen tanto del que la recibe como del que la otorga. Como el derecho de patrocinar un estadio deportivos, como los varios que llevan el nombre de la aseguradora Allianz en su denominación [ver listado](https://en.wikipedia.org/wiki/Allianz_Stadium). La universidad, obviamente, ha de recibir una parte de este aporte empresarial.
 
 ### Formación Profesional
 
@@ -95,7 +95,7 @@ Parecería que el estudio universitario estaría disponible para los más ricos.
 
 Por ello es necesario que la educación no se masifique, que sea capaz de abastecer la demanda de profesionales del mercado y un poquito extra por errores de las proyecciones (más el aporte de las instituciónes privadas), de tal manera de que el título profesional tenga un valor de mercado razonable.
 
-De ninguna manera digo que el estado prohiba estudiar, lo que digo es que no pague por caprichos o calienta-sillas. Que asegure una provisión suficiente de profesionales, y un poco extra por la expectativa de un crecimiento mejor de lo esperado o condiciones cambiantes imprevisibles, pero no debe dilapidar dinero público en titulejos sin valor. Masificar el estudio superior mediante accesos ilimitados, becas inmerecidas y títulos sin sentido es como generar inflación monetaria imprimiendo dinero sin respaldo, que lo único que hace es devaluar y a la larga destruir la moneda. En este caso se estarían imprimiendo diplomas universitarios.
+De ninguna manera digo que el estado prohíba estudiar, lo que digo es que no pague por caprichos o calienta-sillas. Que asegure una provisión suficiente de profesionales, y un poco extra por la expectativa de un crecimiento mejor de lo esperado o condiciones cambiantes imprevisibles, pero no debe dilapidar dinero público en titulejos sin valor. Masificar el estudio superior mediante accesos ilimitados, becas inmerecidas y títulos sin sentido es como generar inflación monetaria imprimiendo dinero sin respaldo, que lo único que hace es devaluar y a la larga destruir la moneda. En este caso se estarían imprimiendo diplomas universitarios.
 
 ### Ingreso
 
