@@ -1,0 +1,75 @@
+<!DOCTYPE html><html lang="en"><head><meta charSet="utf-8"/><meta http-equiv="X-UA-Compatible" content="IE=edge"/><title>Sindicatos · Cómo Pienso</title><meta name="viewport" content="width=device-width"/><meta name="generator" content="Docusaurus"/><meta name="description" content="Empiezo por admitir cuánto detesto a los sindicatos. Yo soy por naturaleza un _autónomo_, y los autónomos no tenemos sindicato. Obviamente, a lo largo de mi vida laboral en Argentina, he trabajado en relación de dependencia y he sido obligado a destinar parte de mi sueldo iba a pagar a sindicalistas que no me representaban y otros supuestos beneficios que raramente usaba. Como, por ejemplo, por tener cobertura médica obligada y a la vista del coste que me representaba, hube de renunciar a la cobertura del Centro Gallego de Buenos Aires (socio 205.507, para más datos), donde nací y siempre fui atendido con los mejores estándares imaginables y que, a la larga, llevó a esta otrora noble institución a la ruina por el éxodo obligado de muchos de sus socios."/><meta name="docsearch:language" content="en"/><meta property="og:title" content="Sindicatos · Cómo Pienso"/><meta property="og:type" content="website"/><meta property="og:url" content="https://satyam.github.io/Como-Pienso/"/><meta property="og:description" content="Empiezo por admitir cuánto detesto a los sindicatos. Yo soy por naturaleza un _autónomo_, y los autónomos no tenemos sindicato. Obviamente, a lo largo de mi vida laboral en Argentina, he trabajado en relación de dependencia y he sido obligado a destinar parte de mi sueldo iba a pagar a sindicalistas que no me representaban y otros supuestos beneficios que raramente usaba. Como, por ejemplo, por tener cobertura médica obligada y a la vista del coste que me representaba, hube de renunciar a la cobertura del Centro Gallego de Buenos Aires (socio 205.507, para más datos), donde nací y siempre fui atendido con los mejores estándares imaginables y que, a la larga, llevó a esta otrora noble institución a la ruina por el éxodo obligado de muchos de sus socios."/><meta name="twitter:card" content="summary"/><link rel="shortcut icon" href="/Como-Pienso/img/favicon.ico"/><link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/default.min.css"/><script src="https://unpkg.com/vanilla-back-to-top@7.1.14/dist/vanilla-back-to-top.min.js"></script><script>
+        document.addEventListener('DOMContentLoaded', function() {
+          addBackToTop(
+            {"zIndex":100}
+          )
+        });
+        </script><script src="/Como-Pienso/js/scrollSpy.js"></script><link rel="stylesheet" href="/Como-Pienso/css/main.css"/><script src="/Como-Pienso/js/codetabs.js"></script></head><body class="sideNavVisible separateOnPageNav"><div class="fixedHeaderContainer"><div class="headerWrapper wrapper"><header><a href="/Como-Pienso/"><img class="logo" src="/Como-Pienso/img/favicon.ico" alt="Cómo Pienso"/><h2 class="headerTitleWithLogo">Cómo Pienso</h2></a><div class="navigationWrapper navigationSlider"><nav class="slidingNav"><ul class="nav-site nav-site-internal"><li class="siteNavGroupActive"><a href="/Como-Pienso/intro" target="_self">Introducción</a></li></ul></nav></div></header></div></div><div class="navPusher"><div class="docMainWrapper wrapper"><div class="docsNavContainer" id="docsNav"><nav class="toc"><div class="toggleNav"><section class="navWrapper wrapper"><div class="navBreadcrumb wrapper"><div class="navToggle" id="navToggler"><div class="hamburger-menu"><div class="line1"></div><div class="line2"></div><div class="line3"></div></div></div><h2><i>›</i><span>Burocracia</span></h2><div class="tocToggler" id="tocToggler"><i class="icon-toc"></i></div></div><div class="navGroups"><div class="navGroup"><h3 class="navGroupCategoryTitle">Introducción</h3><ul class=""><li class="navListItem"><a class="navItem" href="/Como-Pienso/intro">Introducción</a></li></ul></div><div class="navGroup"><h3 class="navGroupCategoryTitle">Economía</h3><ul class=""><li class="navListItem"><a class="navItem" href="/Como-Pienso/impuestos">Impuestos</a></li><li class="navListItem"><a class="navItem" href="/Como-Pienso/vivienda">Vivienda</a></li><li class="navListItem"><a class="navItem" href="/Como-Pienso/ibu">Ingreso Básico Universal</a></li></ul></div><div class="navGroup"><h3 class="navGroupCategoryTitle">Justicia</h3><ul class=""><li class="navListItem"><a class="navItem" href="/Como-Pienso/justicia">Justicia</a></li></ul></div><div class="navGroup"><h3 class="navGroupCategoryTitle">Educación</h3><ul class=""><li class="navListItem"><a class="navItem" href="/Como-Pienso/educacion">Educación</a></li></ul></div><div class="navGroup"><h3 class="navGroupCategoryTitle">Burocracia</h3><ul class=""><li class="navListItem navListItemActive"><a class="navItem" href="/Como-Pienso/sindicatos">Sindicatos</a></li></ul></div></div></section></div><script>
+            var coll = document.getElementsByClassName('collapsible');
+            var checkActiveCategory = true;
+            for (var i = 0; i < coll.length; i++) {
+              var links = coll[i].nextElementSibling.getElementsByTagName('*');
+              if (checkActiveCategory){
+                for (var j = 0; j < links.length; j++) {
+                  if (links[j].classList.contains('navListItemActive')){
+                    coll[i].nextElementSibling.classList.toggle('hide');
+                    coll[i].childNodes[1].classList.toggle('rotate');
+                    checkActiveCategory = false;
+                    break;
+                  }
+                }
+              }
+
+              coll[i].addEventListener('click', function() {
+                var arrow = this.childNodes[1];
+                arrow.classList.toggle('rotate');
+                var content = this.nextElementSibling;
+                content.classList.toggle('hide');
+              });
+            }
+
+            document.addEventListener('DOMContentLoaded', function() {
+              createToggler('#navToggler', '#docsNav', 'docsSliderActive');
+              createToggler('#tocToggler', 'body', 'tocActive');
+
+              var headings = document.querySelector('.toc-headings');
+              headings && headings.addEventListener('click', function(event) {
+                var el = event.target;
+                while(el !== headings){
+                  if (el.tagName === 'A') {
+                    document.body.classList.remove('tocActive');
+                    break;
+                  } else{
+                    el = el.parentNode;
+                  }
+                }
+              }, false);
+
+              function createToggler(togglerSelector, targetSelector, className) {
+                var toggler = document.querySelector(togglerSelector);
+                var target = document.querySelector(targetSelector);
+
+                if (!toggler) {
+                  return;
+                }
+
+                toggler.onclick = function(event) {
+                  event.preventDefault();
+
+                  target.classList.toggle(className);
+                };
+              }
+            });
+        </script></nav></div><div class="container mainContainer docsContainer"><div class="wrapper"><div class="post"><header class="postHeader"><h1 id="__docusaurus" class="postHeaderTitle">Sindicatos</h1></header><article><div><span><p>Empiezo por admitir cuánto detesto a los sindicatos. Yo soy por naturaleza un <em>autónomo</em>, y los autónomos no tenemos sindicato. Obviamente, a lo largo de mi vida laboral en Argentina, he trabajado en relación de dependencia y he sido obligado a destinar parte de mi sueldo iba a pagar a sindicalistas que no me representaban y otros supuestos beneficios que raramente usaba. Como, por ejemplo, por tener cobertura médica obligada y a la vista del coste que me representaba, hube de renunciar a la cobertura del Centro Gallego de Buenos Aires (socio 205.507, para más datos), donde nací y siempre fui atendido con los mejores estándares imaginables y que, a la larga, llevó a esta otrora noble institución a la ruina por el éxodo obligado de muchos de sus socios.</p>
+<p>Es inaceptable el poder que detentan los sindicatos y que poco equitativo es.</p>
+<p>Una huelga es, en cierta forma, una multa impuesta por un sindicato. Que yo sepa, una multa es una prerrogativa del poder judicial o la autoridad administrativa en que estuviera delegada y, en todo caso, una multa se puede recurrir. Una huelga es arbitraria y aún cuando fuera recurrida, el sindicato y los trabajadores no resarcen al afectado por el daño causado. Esto representa una impunidad inaceptable y una burla a la justicia.</p>
+<p>Se podrá decir que la justicia no funciona, y lo digo yo también (ver <a href="justicia">justicia</a>), pero eso no justifica avalar una estructura paralela para paliar esta deficiencia. Obliga, con más razón, a arreglar la justicia.</p>
+<p>Las injusticias del pasado, la lucha contra los poderes económicos o las dictaduras no pueden eternamente justificar un sindicalismo poco representativo, demasiado cargado de ideología y fundamentalmente injusto.</p>
+<p>Los sindicatos no representan a los trabajadores. Demasiados trabajadores, y en esto cuento tantísimos autónomos, se desloman todos los días sin tener protección (si así se le puede llamar) sindical.</p>
+<p>Tomemos por caso Alemania, donde el poder sindical es fuerte aunque, hay que reconocerlo, equilibrado y razonable. Las empresas de cierta envergadura están obligadas a tener en su mesa directiva, representantes sindicales. Cuando fue la crísis económica del 2008/9, los sindicatos aprobaron el esquema de reducción de horas de trabajo, y de salario, para que, al haber menos trabajo por la caída de los mercados, el poco trabajo que había se repartiera equitativamente entre los trabajadores existentes en lugar de proteger a toda costa sus afiliados a costa de otros.</p>
+<p>Sin embargo, en la actual pandemia (2020), el mayor foco de contagios en Alemania fue en una industria cárnica donde el grueso de los trabajadores era inmigrantes de Europa del este, mal pagos, alojados en viviendas pobrísimas provistas por la empresa, en condiciones que, necesariamente, llevaban al contagio. Como no eran de ningún sindicato, nadie se preocupaba de ellos.</p>
+<p>Acá en España, el gran número de contagios en regiones como Aragón y Navarra se han debido a la gran cantidad de inmigrantes, ya fuera del norte de África o de Europa del este, que viven también en condiciones pobrísimas.</p>
+<p>Los sindicatos se oponen a la inmigración, pero hay acaso locales que querrían hacer los trabajos que los inmigrantes hacen? Y si lo hicieran ¿a qué precio? ¿Estarían los consumidores Alemanes dispuestos a que sus <em>wursts</em> y <em>schnitzels</em> costaran el doble? ¿Estarían los españoles dispuestos a que sus espárragos, puerros, guisantes o fresas subieran de precio? ¿o que los productos agrícolas no pudieran competir en precio en el mercado de exportación?</p>
+<p>En todo esto, los sindicatos parecen singularmente callados. El público, en general, no se los agradecería. Mejor publicidad es regodearse en triunfos más fáciles o salir en los medios portando pancartas, que proteger a todos los que trabajan, no sólo sus afiliados.</p>
+<p>Y no son sólo los inmigrantes los que carecen de representación. Los autónomos, ya sean los dueños de bares y chiringuitos que se pasan tantísimas horas tras el mostrador, los peluqueros que han trabajado expuestos al virus durante la pandemia y con riesgo para los suyos, los dueños de pequeñas tiendas, en definitiva, todos aquellos que si no se desloman no comen, ¿qué representación tienen? ¿cuantas veces el dueño del boliche ha tenido que pagar a su contable para gestionar el ERTE (desempleo temporario) para que su empleado pudiera tener la tranquilidad de seguir cobrando, mientras el patrón sigue trabajando pues cerrar el local es, en muchos casos, irreversible?</p>
+</span></div></article></div><div class="docs-prevnext"><a class="docs-prev button" href="/Como-Pienso/educacion"><span class="arrow-prev">← </span><span>Educación</span></a></div></div></div><nav class="onPageNav"></nav></div><footer class="nav-footer" id="footer"><section class="sitemap"><a href="/Como-Pienso/" class="nav-home"><img src="/Como-Pienso/img/favicon.ico" alt="Cómo Pienso" width="66" height="58"/></a><div><h5>Acceso Rápido</h5><a href="/Como-Pienso/intro">Introducción</a></div><div><h5>More</h5><a href="https://github.com/">GitHub</a><a class="github-button" data-icon="octicon-star" data-count-href="/facebook/docusaurus/stargazers" data-show-count="true" data-count-aria-label="# stargazers on GitHub" aria-label="Star this project on GitHub">Star</a></div></section><section class="copyright">Copyright © 2020 Daniel Barreiro</section></footer></div></body></html>
