@@ -1,0 +1,13 @@
+:root {
+  --ifm-color-primary-lightest: #0a5bc4;
+  --ifm-color-primary-lighter: #0951ae;
+  --ifm-color-primary-light: #094da6;
+  --ifm-color-primary: #084697;
+  --ifm-color-primary-dark: #073f88;
+  --ifm-color-primary-darker: #073c80;
+  --ifm-color-primary-darkest: #06316a;
+}
+
+.alignCenter {
+  text-align: center;
+}
