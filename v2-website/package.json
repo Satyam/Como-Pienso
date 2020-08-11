@@ -3,14 +3,11 @@
     "examples": "docusaurus-examples",
     "start": "docusaurus start",
     "build": "docusaurus build",
-    "publish-gh-pages": "docusaurus-publish",
-    "write-translations": "docusaurus-write-translations",
     "version": "docusaurus-version",
     "rename-version": "docusaurus-rename-version",
-    "send": "GIT_USER=Satyam  CURRENT_BRANCH=master USE_SSH=true yarn run publish-gh-pages",
-    "pdf": "docusaurus-pdf http://localhost:3000/Como-Pienso/intro/ static/Como-Pienso.pdf",
+    "pdf": "docusaurus-pdf http://localhost:3000/Como-Pienso/intro/ src/static/Como-Pienso.pdf",
     "swizzle": "docusaurus swizzle",
-    "deploy": "docusaurus deploy",
+    "deploy": "GIT_USER=Satyam  CURRENT_BRANCH=master USE_SSH=true docusaurus deploy",
     "docusaurus": "docusaurus"
   },
   "devDependencies": {
