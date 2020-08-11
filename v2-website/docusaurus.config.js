@@ -27,6 +27,11 @@ module.exports = {
         theme: {
           customCss: require.resolve('./src/css/customTheme.css'),
         },
+        sitemap: {
+          cacheTime: 600 * 1000, // 600 sec - cache purge period
+          changefreq: 'weekly',
+          priority: 0.5,
+        },
       },
     ],
   ],
@@ -42,6 +47,30 @@ module.exports = {
           to: 'docs/',
           label: 'Introducción',
           position: 'left',
+        },
+        {
+          label: 'Otras Páginas',
+          position: 'right',
+          items: [
+            {
+              label: 'Economía',
+              to: 'docs/impuestos',
+            },
+            {
+              label: '- Impuestos',
+              to: 'docs/impuestos',
+            },
+            { label: '- Vivienda', to: 'docs/vivienda' },
+            {
+              label: '- IBU',
+              to: 'docs/ibu',
+            },
+            { label: 'Justicia', to: 'docs/justicia' },
+            { label: 'Educación', to: 'docs/educacion' },
+            { label: 'Burocracia', to: 'docs/sindicatos' },
+
+            // ... more items
+          ],
         },
       ],
     },
