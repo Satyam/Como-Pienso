@@ -48,34 +48,6 @@ module.exports = {
           label: 'Inicio',
           position: 'left',
         },
-        {
-          label: 'Acceso Directo',
-          position: 'right',
-          items: [
-            {
-              label: 'Economía',
-              to: 'docs/impuestos',
-            },
-            {
-              label: '- Impuestos',
-              to: 'docs/impuestos',
-            },
-            { label: '- Vivienda', to: 'docs/vivienda' },
-            {
-              label: '- IBU',
-              to: 'docs/ibu',
-            },
-            { label: 'Justicia', to: 'docs/justicia' },
-            { label: 'Educación', to: 'docs/educacion' },
-            { label: 'Burocracia', to: 'docs/sindicatos' },
-            { label: 'Sociedad', to: 'docs/sociedad' },
-            { label: '- Sociedad', to: 'docs/sociedad' },
-            { label: '- Política', to: 'docs/politica' },
-            { label: '- Ocio', to: 'docs/ocio' },
-
-            // ... more items
-          ],
-        },
       ],
     },
     footer: {
