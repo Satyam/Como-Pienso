@@ -1,10 +1,10 @@
 {
   "docs": {
     "Cómo Pienso": ["intro"],
-    "Economía": ["impuestos", "vivienda", "ibu"],
-    "Justicia": ["justicia"],
     "Educación": ["educacion"],
-    "Burocracia": ["sindicatos"],
-    "Sociedad": ["sociedad", "politica", "ocio"]
+    "Justicia": ["justicia"],
+    "Economía": ["impuestos", "vivienda", "ibu"],
+    "Gobierno": ["politica", "sindicatos", "ocio"],
+    "Sociedad": ["sociedad", "vacia"]
   }
 }
