@@ -3,7 +3,7 @@ id: ibu
 title: Ingreso Básico Universal
 ---
 
-Creo que el Ingreso Básico Universal, o *IBU* un aporte incondicional a los ciudadanos de un país, es el sueño de cualquier republicano liberal.
+Creo que el Ingreso Básico Universal, o _IBU_ un aporte incondicional a los ciudadanos de un país, es el sueño de cualquier republicano liberal.
 
 Es el extremo opuesto de la balanza. Igual que un país se sustenta por el aporte de sus habitantes, principalmente su trabajo, y financieramente mediante los impuestos en función de la renta de cada individuo, es justo que todos los habitantes de un país gocen de los servicios mínimos que un estado debe proveer, a saber
 
@@ -34,7 +34,7 @@ Por ello el IBU me parece la solución ideal. Todo ciudadano o, en ocasiones, re
 
 Para que el IBU tenga éxito, sin embargo, deben darse varias condiciones, ninguna de ellas difíciles de alcanzar, excepto para los que se aprovechan del poder que le otorga el sistema actual.
 
-### Importe
+## Importe
 
 Para que sea económicamente viable, el IBU debe reemplazar a cualquier otra forma de aporte de parte del estado. Ni seguro de desempleo, ni jubilación ni nada más. Con esto se elimina toda el coste de gestión y la enorme burocracia que implica la multiplicidad de sistemas actuales y los gestores y abogados.
 
@@ -50,14 +50,34 @@ Quizás la emancipación, y la consecuente disponibilidad del total del IBU y lo
 
 El importe del IBU debería permitir a un adulto sobrevivir compartiendo vivienda, en una zona con precios medios para el país en cuestión. Si vive con sus padres, su parte del IBU contribuirá a la economía familiar. Si emancipado, habrá de vivir en un lugar económico, compartir vivienda con amigos o en pareja, si jubilado, deberá sumar al IBU los ahorros que es su responsabilidad haber acumulado.
 
-### Cambios sociales
+## Cambios sociales
 
-El IBU elimina la edad de jubilación como se la conoce.  La persona se jubila cuando le plazca. Seguirá teniendo el IBU como siempre ha tenido, y dispondrá de lo que hubiera ahorrado hasta entonces.  Es su responsabilidad haberlo hecho y su libertad en decidir cuándo se retira.
+El IBU elimina la edad de jubilación como se la conoce. La persona se jubila cuando le plazca. Seguirá teniendo el IBU como siempre ha tenido, y dispondrá de lo que hubiera ahorrado hasta entonces. Es su responsabilidad haberlo hecho y su libertad en decidir cuándo se retira.
 
-Los divorcios se multiplicarán. Dejarían de existir los matrimonios que perduran por no poder sobrevivir sin el único sueldo de la casa. Cada parte seguirá contando con el IBU propio y, si hubiera hijos menores, la parte del IBU que le corresponde a este. Obviamente habrá bienes hasta entonces compartidos, como el hogar familiar, pero la desgracia de los matrimonios mal avenidos que perduran por causa de la inseguridad económica se reducirán.  Y la violencia que habitualmente esto conlleva.
+Los divorcios se multiplicarán. Dejarían de existir los matrimonios que perduran por no poder sobrevivir sin el único sueldo de la casa. Cada parte seguirá contando con el IBU propio y, si hubiera hijos menores, la parte del IBU que le corresponde a este. Obviamente habrá bienes hasta entonces compartidos, como el hogar familiar, pero la desgracia de los matrimonios mal avenidos que perduran por causa de la inseguridad económica se reducirán. Y la violencia que habitualmente esto conlleva.
 
-Dejará de existir el *empleo* como ficción estadística.  Muchos gobiernos mantienen una burocracia que le permita mantener lastimosamente ocupados a miles de personas, simplemente para cumplir, a costa del tesoro público y de la paciencia de los conciudadanos, las promesas de *puestos de trabajo* que prometieron en campaña.
+Dejará de existir el _empleo_ como ficción estadística. Muchos gobiernos mantienen una burocracia que le permita mantener lastimosamente ocupados a miles de personas, simplemente para cumplir, a costa del tesoro público y de la paciencia de los conciudadanos, las promesas de _puestos de trabajo_ que prometieron en campaña.
 
-Ahí tenemos el ejemplo extremo los petro-estados de la península arábiga, donde muchísimos locales disfrutan de empleo garantizado en altos cargos totalmente innecesarios, pero que tienen sueldos y jerarquía acorde a la dignidad del empleado, o de su familia y, donde tantos son príncipes, es natural que haya *más caciques que indios*, como dice el dicho.  El trabajo, en definitiva, cae en pobres inmigrantes en condiciones de semi-esclavitud.
+Ahí tenemos el ejemplo extremo los petro-estados de la península arábiga, donde muchísimos locales disfrutan de empleo garantizado en altos cargos totalmente innecesarios, pero que tienen sueldos y jerarquía acorde a la dignidad del empleado, o de su familia y, donde tantos son príncipes, es natural que haya _más caciques que indios_, como dice el dicho. El trabajo, en definitiva, cae en pobres inmigrantes en condiciones de semi-esclavitud.
 
-Esta garantía de sueldo y posición social sólo mantiene una aristocracia inútil y tremendamente costosa y desalienta el trabajo productivo.  Pues, además del sueldo propio corresponde el despacho con el personal acorde a la jerarquía del *cacique* en cuestión.   Sería más barato pagarle el sueldo y que se quedara en su casa.  Pero, ¿cómo podría entonces exhibir su supuestamente exaltada posición?  
+Esta garantía de sueldo y posición social sólo mantiene una aristocracia inútil y tremendamente costosa y desalienta el trabajo productivo. Pues, además del sueldo propio corresponde el despacho con el personal acorde a la jerarquía del _cacique_ en cuestión. Sería más barato pagarle el sueldo y que se quedara en su casa. Pero, ¿cómo podría entonces exhibir su supuestamente exaltada posición?
+
+## ¿Quién hace los trabajos menos divertidos?
+
+Si algo nos enseño la pandemia es cuántas cosas necesitamos para nuestra vida tan cómoda y qué poco sabemos de los que las proveen.
+
+Esta semana, en mis largas caminatas, me crucé con varios equipos de limpieza de calles y recolección de residuos. Por casualidad, en una granja orgánica cercana, vi y charlé con un trabajador que estaba recogiendo unos melones. También hable con los transportistas que nos entregaron unos muebles.
+
+Los primeros los veo con regularidad y ocasionalmente los oigo hablando algo que parece árabe, pero que personalmente no puedo reconocer. Los rasgos de la mayoría con los cuales raramente converso, me hacen pensar que son del norte de África. El agricultor claramente lo era, por el acento. Los transportistas eran claramente latino americanos, diría que peruanos o ecuatorianos.
+
+También mencioné en [otro capítulo](sindicatos#malos-ejemplos) casos que salieron a la luz recientemente de inmigrantes haciendo los trabajos que los locales no queremos.
+
+Si pocos locales hacen estos trabajos ahora, ¿quién que cobrara el IBU, los haría? Alguien dirá que podrían automatizarse. Bueno, los robots no son grátis y no pueden hacerlo todo. El IBU entonces conllevaría el coste adicional de estos robots. Si nadie en el país trabajara fabricando dichos robots (y aunque así fuera) terminaríamos comprándolos en China (Una compañía china compró hace en el 2018 el [95% de las acciones de Kuka](https://www.dw.com/en/berlin-approves-kuka-sale-to-midea/a-19479483), la afamada empresa alemana cuyos robots de color naranja se pueden ver en cualquier línea de montaje industrial)
+
+En un chiste leí, "yo no tengo miedo a que un robot me quite el trabajo, pero no me gustaría que un robot me sacara la tumbona".
+
+## Inmigrantes
+
+La alternativa a los robots son inmigrantes, pues es lo que actualmente hacemos. El IBU nos presenta con un gran problema en esto. La intención es hacer una sociedad igualitaria, pero el IBU crearía una gran división entre los que cobran el IBU y los que no. Peor: entre los que cobran y no trabajan y los que trabajan y no cobran el IBU y no tienen seguridad.
+
+Esto se resolvería incorporando a los inmigrantes al IBU. El problema es cuando. ¿Apenas consiguen el permiso de residencia? Pero entonces podríamos llegar a tener más beneficiarios del IBU inactivos. ¿Haríamos depender la residencia al trabajo, y si este cesa, el inmigrante se vuelve? Eso daría pie a empresas que contratarían a inmigrantes para conseguir el permiso de residencia y cobrar el IBU, pero que no les pagarían nada de su bolsillo. Un IBU que no sería suficiente para el nivel de vida que espera un local podría ser suficiente para atraer inmigrantes de países pobres, conviviendo miserablemente como lo hacían en los [malos emjemplos](sindicatos#malos-ejemplos) ya mencionados.

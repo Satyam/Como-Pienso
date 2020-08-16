@@ -3,7 +3,7 @@ id: educacion
 title: Educación
 ---
 
-### Profesores y tutores
+## Profesores y tutores
 
 Creo que el mundo docente se debe separar en dos ramas,
 profesores y tutores. Actualmente, se espera que el maestro o profesor realice
@@ -40,7 +40,7 @@ Y con esto llegamos al último punto, la evaluación de los alumnos. Aquí vamos
 
 La evaluación debe ser positiva en cuanto a que un mal resultado no debe ser tomado como un castigo sino como un indicio de dónde se puede mejorar, y el docente debe ayudar al estudiante en sus carencias. Pero debe ser categórica, si la anatomía no es lo tuyo tampoco tienes pasta para médico. Si no se te da la física o las matemáticas, ingeniería está fuera de tu alcance.
 
-### Becas universitarias
+## Becas universitarias
 
 Las condiciones de las becas aquí en España son cada vez más laxas. Yo no contrataría a alguien que apenas hubiera logrado la nota mínima para la beca. Al menos no para un trabajo de nivel profesional. Hay dos razones perversas para esta degradación de los mínimos educativos:
 
@@ -61,7 +61,7 @@ Adicionalmente el mantener esos estudiantes fuera de la categoría _ni-ni_ impli
 
 Por ello, las becas han de ser lo que siempre fueron, una facilidad para aquellos que quieren y merecen estudiar pero que no tienen los medios.
 
-### Universidad Pública vs. Privada
+## Universidad Pública vs. Privada
 
 Creo que hay espacio para las dos, la pública ofreciendo la mejor educación y la privada tomando el excedente. ¿Cómo es eso? La universidad pública ha de concentrarse en la educación del número necesario de profesionales de cada materia. En base a estudios demográficos, análisis del potencial de crecimiento de la industria y comercio, y considerando un cierto margen para imprevistos, la universidad pública ha de ofrecer un cierto número de plazas en cada una de las especialidades, contemplando, además, las posibles deserciones en los varios años de estudio.
 
@@ -81,13 +81,7 @@ El paciente de un psicólogo y el estudiante deben participar del proceso. Las t
 
 ¿Debe haber becas? Totalmente, para la excelencia académica, sin lugar a dudas. La beca ha de ser ante todo un galardón, algo que merezca ser mencionado en el currículo. Las universidades deben procurar el dinero de las becas de la industria privada pues es bueno que inviertan por anticipado en los egresados que se incorporen a ellas. Además, la beca beneficia la imagen tanto del que la recibe como del que la otorga. Como el derecho de patrocinar un estadio deportivos, como los varios que llevan el nombre de la aseguradora Allianz en su denominación [ver listado](https://en.wikipedia.org/wiki/Allianz_Stadium). La universidad, obviamente, ha de recibir una parte de este aporte empresarial.
 
-### Formación Profesional
-
-¿Por qué en lugar de tener ingenieros-taxistas, no tenemos taxistas-taxistas? ¿No tiene más sentido que un profesional, de cualquier nivel, no pueda recibir la formación más apropiada para su oficio y lo pueda ejercer con orgullo y la mejor capacitación, a haber estudiado para un título superior sin salida laboral, y deba haberse resignado con pesar a algo por debajo de sus aspiraciones, obligado a improvisar sin el respaldo de ninguna capacitación?
-
-Nuevamente, es cuestión de acudir a la realidad. Si un país va a tener cierto número de médicos, ingenieros, mecánicos, torneros, camareros y barmen, ¿por qué no formar las cantidades apropiadas, otorgándoles la dignidad y la formación que cada una de ellas requiere? ¿Por qué relegamos a los artesanos, mecánicos y otros que no disponen de un título superior, y los oficios que estos desempeñan, a una categoría inferior? ¿Por qué alentamos a los jóvenes a lograr un título superior si sabemos que la economía del país no podrá ofrecerle un trabajo acorde?
-
-### Coste
+## Coste
 
 Los estudiantes universitarios deben pagar por sus estudios, no el coste total pero sí el coste directo de la enseñanza. Otros costes indirectos como las sobre-dimensionadas y, por lo demás, mayormente obsoletos edificios universitarios, o toda la burocracia de las que no tienen culpa deberán ser solventados sólo parcialmente por los alumnos.
 
@@ -97,6 +91,52 @@ Por ello es necesario que la educación no se masifique, que sea capaz de abaste
 
 De ninguna manera digo que el estado prohíba estudiar, lo que digo es que no pague por caprichos o calienta-sillas. Que asegure una provisión suficiente de profesionales, y un poco extra por la expectativa de un crecimiento mejor de lo esperado o condiciones cambiantes imprevisibles, pero no debe dilapidar dinero público en titulejos sin valor. Masificar el estudio superior mediante accesos ilimitados, becas inmerecidas y títulos sin sentido es como generar inflación monetaria imprimiendo dinero sin respaldo, que lo único que hace es devaluar y a la larga destruir la moneda. En este caso se estarían imprimiendo diplomas universitarios.
 
-### Ingreso
+## Ingreso a la universidad
 
-Por ello, el ingreso universitario no ha de ser por nota sino por cupos. Sólo habrán de ingresar un número determinado anualmente, variable según los pronósticos del mercado. Las plazas se asignarán por nota, por lo que no es predecible la nota mínima, que corresponderá a la nota que haya sacado el último en llenar el cupo. En caso de que varios tuvieran la misma nota (hasta el último decimal, sin redondeo) todos los de esa nota ingresarán, pues cabe dentro del extra _por si acaso_ de la estimación.
+Por ello, el ingreso a la universidad pública no ha de ser por nota sino por cupos. Sólo habrán de ingresar un número determinado anualmente, variable según los pronósticos del mercado. Las plazas se asignarán por nota, por lo que no es predecible la nota mínima, que corresponderá a la nota que haya sacado el último en llenar el cupo. En caso de que varios tuvieran la misma nota (hasta el último decimal, sin redondeo) todos los de esa nota ingresarán, pues cabe dentro del extra _por si acaso_ de la estimación.
+
+La universidad privada es libre de establecer las políticas de ingreso y de pago que desee. Podrán ofrecer titulaciones que no hayan sido contempladas en la pública por no encontrar necesidad en el mercado. Si alguien desea fervientemente estudiar algo improductivo, puede hacerlo libremente, a su coste, no al del erario público. No debe ser el objetivo de la universidad pública satisfacer aspiraciones individuales o caprichos absurdos.
+
+Además, serán estas universidades privadas las que podrán tomar la iniciativa en aquellas titulaciones que los pronósticos de mercado no supieron vislumbrar. También habrán de reunir a los estudiantes que requieran becas y a las empresas o asociaciones que puedan ofrecer mecenazgo para financiar una determinada carrera.
+
+Pareciera que estoy relegando a las universidades privadas a un lejano segundo plano. No es así. El estado es responsable de redistribuir los impuestos de todos los ciudadanos en los recursos que el país necesita, como profesionales bien formados, y no satisfacer las inquietudes personales de unos pocos, los caprichos de algunos, el orgullo de muchos padres de enviar sus hijos a la universidad o la falsa opción de tantas familias con sus hijos "o estudias o trabajas" y eligen la primera por ser la más cómoda.
+
+Esto, al estado, que administra los impuestos de todos los ciudadanos, le sale caro. El universitario que no está allí para devolver a la sociedad lo que ha recibido de ella, es un costo inútil. El coste de oportunidad del alumno perdiendo el tiempo, el coste de las instalaciones y el personal docente y administrativo para atenderlo.
+
+Las universidades privadas pueden abastecer este mercado de lo no imprescindible, además de ofrecer las mismas titulaciones que la pública. Todo esto sin cargar al erario público.
+
+## Otras ofertas educativas
+
+El esquema tradicional de escuela primaria, secundaria y universitaria no cubre todas las necesidades o aspiraciones de la población, hay otras.
+
+### Formación Profesional
+
+El uruguayo Florencio Sánchez escribía, hace ya un siglo, la obra [sic]&nbsp;[m'hijo el dotor](https://es.wikipedia.org/wiki/M%27hijo_el_dotor) que, entre muchos otros conflictos familiares y sociales, representa en su título el orgullo de los padres en que su hijo sea médico.
+
+¿Por qué en lugar de tener ingenieros-taxistas, no tenemos taxistas-taxistas? ¿No tiene más sentido que un profesional, de cualquier nivel, no pueda recibir la formación más apropiada para su oficio y lo pueda ejercer con orgullo y la mejor capacitación, a haber estudiado para un título superior sin salida laboral, y deba haberse resignado con pesar a algo por debajo de sus aspiraciones, obligado a improvisar sin el respaldo de ninguna capacitación?
+
+Nuevamente, es cuestión de acudir a la realidad. Si un país va a tener cierto número de médicos, ingenieros, mecánicos, torneros, camareros y barmen, ¿por qué no formar las cantidades apropiadas, otorgándoles la dignidad y la formación que cada una de ellas requiere? ¿Por qué relegamos a los artesanos, mecánicos y otros que no disponen de un título superior, y los oficios que estos desempeñan, a una categoría inferior? ¿Por qué alentamos a los jóvenes a lograr un título superior si sabemos que la economía del país no podrá ofrecerle un trabajo acorde?
+
+### Formación continua
+
+Hay gente que, ya mayor, encuentra el tiempo para desarrollar una vocación que, de joven, no pudo realizar pues no ponían el pan sobre la mesa o porque en su momento no sentían la inquietud. Esta gente puede requerir planes de estudios distintos de los jóvenes, que necesitan una mejor formación de base. Lo que llaman [formación continua](https://es.wikipedia.org/wiki/Educaci%C3%B3n_por_extensi%C3%B3n).
+
+Los [ni-ni](educacion#becas-universitarias) (ni estudian, ni trabajan) lucen mal en las estadísticas de _población activa_ pero en muchos casos es una cuestión de tiempo, de maduración. La _formación continua_ podrá ofrecer a aquellos que hubieran encontrado tarde su vocación, la vía para desarrollarla.
+
+### Home Schooling
+
+Esta etiqueta identifican a muchos que disienten con lo que sus hijos aprenden en la escuela y claman el derecho a enseñarles en sus casas, de allí _home schooling_ (enseñanza en el hogar). Si bien ha habido casos de éxito, que los proponentes de esto divulgan como justificación, el caso es que demasiados de los [activistas](politica#activistas-y-militantes) son religiosos ultra-ortodoxos (cualquiera sea su creencia), _conspiranoicos_, ultranacionalistas que no desean exponer a sus hijos a la realidad de la cual, en sus respectivas fantasías, ellos rehuyen o buscan indoctrinarlos en sus ideologías.
+
+Es cierto que se debe proveer los medios para que niños que por variadas circunstancias (viajes, enfermedad, distancia a centros urbanos) puedan convalidar lo que hubieran estudiado en casa y, en general, esto existe en mayor o menor medida. Y estoy totalmente de acuerdo en asegurar esta facilidad en cualquier sociedad.
+
+También es cierto que muchos sistemas educativos tienen falencias o están manipulados política e ideológicamente, pero esto no es excusa para que el _home schooling_ se difunda como solución. En su lugar se debe buscar que el sistema educativo en general mejore, se despolitice y sea laico.
+
+En definitiva, no es cuestión de reemplazar una falencia por otra, un vicio por otro.
+
+Nadie niega a los padres transmitir a sus hijos sus creencias y, de hecho, es triste que muchos padres se desentiendan de hacerlo y deleguen la responsabilidad en las escuelas. Pero, además de imbuirse de las tradiciones, creencias y, si se quiere, fantasías familiares, es necesario que los niños formen parte de la comunidad en la que van luego a desarrollarse.
+
+El mundo, la sociedad, tiene sus defectos, los niños no pueden desarrollarse en una burbuja asilados de estos defectos. Es deseable mejorar el sistema para reducir estos defectos, pero no lo es excluir a los niños de los compañeros, los amigos y también los no tan amigos, pues son reflejo de los que encontrará en su adultez.
+
+## Reducción de temario
+
+Es necesario que los temarios de los ciclos primario y secundario se separen en materias obligatorias y opcionales y que las materias obligatorias se reduzcan al mínimo y sus temario sean sucintos.

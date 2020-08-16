@@ -3,11 +3,17 @@ id: intro
 title: Introducción
 ---
 
-Mi padre decía que un ministro de la primera época de Perón escribió un libro donde expresaba su forma de pensar. Lo llamó "Cómo pienso". Los vivos de la época decían que era natural que, siendo tan burro, comiera pienso.
+Mi padre decía que un ministro de la primera época de Perón escribió un libro donde expresaba su forma de pensar. Lo llamó "Cómo pienso". Los vivos de la época decían que era natural que, siendo tan burro :horse:, comiera pienso.
 
 Así pues, yo, aquí, pensando, para variar, me puse a rumiar :wink: algunas ideas sobre el mundo y en particular sobre España, la tierra de mis abuelos y que ha sido la mía durante estos últimos años.
 
-### Educación y Justicia
+El burro también me recuerda, como ocurría con los generales victoriosos en su desfile triunfal en Roma, que tenían un esclavo detrás que le repetía a su oído "¡Mira tras de ti! Recuerda que eres un hombre" [y no un dios](https://es.wikipedia.org/wiki/Memento_mori). Por ello me fuerzo a exponer estas ideas, sabiendo lo equivocado que puedo estar, pues de otra manera se perderían.
+
+Como ingeniero tengo la tendencia a buscar soluciones. No suelo buscar culpables o justificar el pasado. Miro lo que hay, me baso en la experiencia y trato de ver qué se puede hacer, sabiendo, también, que puedo estar equivocado.
+
+Pero debo basarme en algunos principios básicos:
+
+## Educación y Justicia
 
 Por alguna razón que desconozco, gente de un programa de radio en Buenos Aires vino a hacernos una entrevista a nuestra pequeña empresa pues el programa se dedicaba a eso, darle espacio a las pequeñas empresas.
 
@@ -24,6 +30,8 @@ Sintiendo que mi respuesta era demasiado abstracta, me sentí obligado a aclarar
 Es curioso que en Argentina, en muchísimos gobiernos, "Educación y Justicia" solían ser un único ministerio. Uno de los ministerios menores, comparados con Economía, Interior, Exteriores u Obras Públicas que eran aquellos por los que los políticos se peleaban. Era el ministerio que abarcaba lo que sobraba, lo que a nadie le interesaba.
 
 Quizás por ello, para mi, eran importantes, por lo necesario.
+
+## Liberalismo
 
 Sin estar del todo seguro, creo que yo soy un _liberal_. No un neo-liberal de cuño económico, con el que no concuerdo, sino liberal tradicional, como el partido liberal británico. Citando a [Wikipedia](https://es.wikipedia.org/wiki/Liberalismo)
 

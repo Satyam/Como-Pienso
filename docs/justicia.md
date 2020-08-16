@@ -7,7 +7,7 @@ En inglés existe un dicho, "justice delayed is justice denied", que se traduce,
 
 Vale la pena aclarar que no soy, de ninguna manera, partidario de la _mano dura_ que tantos políticos _justicieros_ (como si estuviéramos en el _lejano oeste_ de las películas) declaman. Esto no es más que otra forma de justicia y ejercicio abusivo del poder, a los cuales me opongo totalmente.
 
-### Alternativas indeseadas
+## Alternativas indeseadas
 
 Es la falta de eficiencia de la justicia la que obliga a la existencia de esquemas alternativos al justo proceso judicial.
 
@@ -25,9 +25,9 @@ Indiscutíblemente, una cantidad mínima de reglas deben existir para cubrir las
 
 Hay que entender algo. El malhechor no es tonto, instintivamente hace el cálculo, estima que si le pillan, le cae tal o cual penalización, pero, como nunca le pillan, sigue adelante. Por ello, las leyes no deben endurecer las penas (una versión del _mano dura_) sino asegurar que _el que la hace la paga_, aunque pague poco, pero que quede claro que no hay forma de salirse de rositas. Nuevamente, esto depende de la eficiencia del sistema judicial y de su herramienta de control, la policía judicial y los inspectores ya sea de hacienda, de higiene y seguridad industrial o laboral, etc..
 
-Pongamos un ejemplo.  Si de 10 personas que cometen una falta, 8 reciben una multa de, por decir, 50€, el erario se hará con 400€.  Si de estas misma 10 personas, sólo 2 reciben una multa, bien se podría decir que si cada una de ellas pagara 200€, el erario público habría percibido los mismos 400€.  Pero esta no es la solución.  El objetivo de la multa no ha de ser la recaudación sino desalentar la comisión de la falta.  En este último caso, 6 personas se fueron de rositas y probablemente repitan la falta y sólo dos cargaron con la responsabilidad de todo el conjunto, lo cual es una clara injusticia.  Pero, además, hay un factor psicológico a considerar.  El jugador recuerda más sus victorias que sus pérdidas.  Aún después de pagar los 200€ de multa, el infractor recordará la cantidad de veces que ha cometido la misma falta y ha salido impune y minimizará la multa pagada como un accidente del destino.  La mayor multa no compensa la sensación de impunidad.  La multa no cambiará su actitud.  Por el contrario, si el potencial infractor sabe que si la hace la paga, aunque pague poco, el *juego* terminará siendo frustrante.
+Pongamos un ejemplo. Si de 10 personas que cometen una falta, 8 reciben una multa de, por decir, 50€, el erario se hará con 400€. Si de estas misma 10 personas, sólo 2 reciben una multa, bien se podría decir que si cada una de ellas pagara 200€, el erario público habría percibido los mismos 400€. Pero esta no es la solución. El objetivo de la multa no ha de ser la recaudación sino desalentar la comisión de la falta. En este último caso, 6 personas se fueron de rositas y probablemente repitan la falta y sólo dos cargaron con la responsabilidad de todo el conjunto, lo cual es una clara injusticia. Pero, además, hay un factor psicológico a considerar. El jugador recuerda más sus victorias que sus pérdidas. Aún después de pagar los 200€ de multa, el infractor recordará la cantidad de veces que ha cometido la misma falta y ha salido impune y minimizará la multa pagada como un accidente del destino. La mayor multa no compensa la sensación de impunidad. La multa no cambiará su actitud. Por el contrario, si el potencial infractor sabe que si la hace la paga, aunque pague poco, el _juego_ terminará siendo frustrante.
 
-### Reducir las normas
+## Reducir las normas
 
 Es contraproducente generar tal número de leyes y reglamentos que nadie pueda entender o verificar y que, en muchos casos, se superponen en formas a veces contradictoras tal que, de alguna manera, todos estamos siempre en falta por una cosa u otra.
 

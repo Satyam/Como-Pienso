@@ -15,6 +15,8 @@ Las injusticias del pasado, la lucha contra los poderes económicos o las dictad
 
 Los sindicatos no representan a los trabajadores. Demasiados trabajadores, y en esto cuento tantísimos autónomos, se desloman todos los días sin tener protección (si así se le puede llamar) sindical.
 
+## Malos ejemplos
+
 Tomemos por caso Alemania, donde el poder sindical es fuerte aunque, hay que reconocerlo, equilibrado y razonable. Las empresas de cierta envergadura están obligadas a tener en su mesa directiva, representantes sindicales. Cuando fue la crísis económica del 2008/9, los sindicatos aprobaron el esquema de reducción de horas de trabajo, y de salario, para que, al haber menos trabajo por la caída de los mercados, el poco trabajo que había se repartiera equitativamente entre los trabajadores existentes en lugar de proteger a toda costa sus afiliados a costa de otros.
 
 Sin embargo, en la actual pandemia (2020), el mayor foco de contagios en Alemania fue en una industria cárnica donde el grueso de los trabajadores era inmigrantes de Europa del este, mal pagos, alojados en viviendas pobrísimas provistas por la empresa, en condiciones que, necesariamente, llevaban al contagio. Como no eran de ningún sindicato, nadie se preocupaba de ellos.

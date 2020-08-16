@@ -3,7 +3,7 @@ id: impuestos
 title: Impuestos
 ---
 
-### No al IVA
+## No al IVA
 
 Creo que el Impuesto al Valor Agregado o Valor Añadido, es uno de los peores impuestos que hay.
 
@@ -14,7 +14,7 @@ Creo que el Impuesto al Valor Agregado o Valor Añadido, es uno de los peores im
 
 Esto añade un grado de perversidad a todo este enredo pues el cobro y la fiscalización del cobro es responsabilidad del Estado. Cargar al comerciante con todo el papeleo que implica liquidar el IVA es otro coste que se añade al del impuesto en sí, un coste que es proporcionalmente más oneroso para el pequeño comerciante. Es como mezquinar en policía y contar con que los particulares blinden sus comercios y viviendas, se armen o contraten guardias de seguridad cosa que, lamentablemente de hecho, ocurre en demasiados lugares.
 
-### Fiscalización
+## Fiscalización
 
 La informática facilita enormemente la fiscalización de la obligación del pago de los impuestos. El pago de la nóminas y los beneficios sociales como jubilación y desempleo directamente en el banco, la compra de activos que obligada al registro de la operación, el alquiler de un local o una nave industrial, son todas operaciones que terminan aflorando. Ya no es posible manejarse con grandes cantidades de dinero en efectivo simplemente porque los lugares donde gastarlo son cada vez menos. El grueso del comercio está obligado a moverse a la luz.
 
@@ -28,7 +28,7 @@ El _trabajo en negro_ se sigue reduciendo. Con el virus reciente el mundo ha des
 
 Por otra parte, otra forma de evitar el empleo en negro es conseguir que estar _en blanco_ sea rentable.
 
-### Impuesto a la renta
+## Impuesto a la renta
 
 Dentro de lo que hay, es el impuesto más justo, cuanto más ganas, más pagas. Con un umbral bajo el cual no pagas nada pues, en efecto, no dispones de ingresos extra para hacerlo, y una escala ascendente. Dado que actualmente nadie calcula el impuesto a mano, de hecho, en muchos países Hacienda provee programas para calcularlo, usualmente a través de la red, eliminaría el anticuado sistema de tasas escalonadas, que eran la forma de facilitar el trabajo en la época en que se hacían las cuentas a mano. Actualmente, requiere más líneas de programa calcular el impuesto con las tasas escalonadas que con un simple polinomio.
 
