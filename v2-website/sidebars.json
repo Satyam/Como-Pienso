@@ -4,6 +4,7 @@
     "Economía": ["impuestos", "vivienda", "ibu"],
     "Justicia": ["justicia"],
     "Educación": ["educacion"],
-    "Burocracia": ["sindicatos"]
+    "Burocracia": ["sindicatos"],
+    "Sociedad": ["sociedad", "politica", "ocio"]
   }
 }

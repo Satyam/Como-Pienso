@@ -15,7 +15,7 @@ export default () => {
         </a>
         <h3>Rumiando algunas ideas</h3>
         <div>
-          <a href={useBaseUrl('docs')}>Introducción</a>
+          <a href={useBaseUrl('docs')}>Inicio</a>
         </div>
       </div>
     </Layout>

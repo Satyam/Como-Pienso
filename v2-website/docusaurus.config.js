@@ -45,11 +45,11 @@ module.exports = {
       items: [
         {
           to: 'docs/',
-          label: 'Introducción',
+          label: 'Inicio',
           position: 'left',
         },
         {
-          label: 'Otras Páginas',
+          label: 'Acceso Directo',
           position: 'right',
           items: [
             {
@@ -68,6 +68,10 @@ module.exports = {
             { label: 'Justicia', to: 'docs/justicia' },
             { label: 'Educación', to: 'docs/educacion' },
             { label: 'Burocracia', to: 'docs/sindicatos' },
+            { label: 'Sociedad', to: 'docs/sociedad' },
+            { label: '- Sociedad', to: 'docs/sociedad' },
+            { label: '- Política', to: 'docs/politica' },
+            { label: '- Ocio', to: 'docs/ocio' },
 
             // ... more items
           ],
