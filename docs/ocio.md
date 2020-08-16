@@ -1,5 +1,4 @@
 ---
-id: ocio
 title: Ocio
 ---
 

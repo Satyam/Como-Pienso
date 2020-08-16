@@ -1,5 +1,4 @@
 ---
-id: sociedad
 title: Sociedad
 ---
 

@@ -1,5 +1,4 @@
 ---
-id: educacion
 title: Educación
 ---
 

@@ -1,5 +1,4 @@
 ---
-id: vivienda
 title: Vivienda
 ---
 

@@ -1,5 +1,4 @@
 ---
-id: sindicatos
 title: Sindicatos
 ---
 

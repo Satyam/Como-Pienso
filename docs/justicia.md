@@ -1,5 +1,4 @@
 ---
-id: justicia
 title: Justicia
 ---
 

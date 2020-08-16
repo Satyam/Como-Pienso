@@ -1,5 +1,4 @@
 ---
-id: ibu
 title: Ingreso Básico Universal
 ---
 

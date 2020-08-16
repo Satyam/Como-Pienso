@@ -1,5 +1,4 @@
 ---
-id: politica
 title: Política
 ---
 

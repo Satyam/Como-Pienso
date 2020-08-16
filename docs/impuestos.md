@@ -1,5 +1,4 @@
 ---
-id: impuestos
 title: Impuestos
 ---
 
