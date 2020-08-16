@@ -1,9 +1,0 @@
-{
-  "docs": {
-    "Introducción": ["intro"],
-    "Economía": ["impuestos", "vivienda", "ibu"],
-    "Justicia": ["justicia"],
-    "Educación": ["educacion"],
-    "Burocracia": ["sindicatos"]
-  }
-}
