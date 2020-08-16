@@ -1,8 +1,10 @@
+const url = 'https://satyam.github.io';
+const baseUrl = '/Como-Pienso/';
 module.exports = {
   title: 'Cómo Pienso',
   tagline: 'Rumiando algunas ideas',
-  url: 'https://satyam.github.io',
-  baseUrl: '/Como-Pienso/',
+  url,
+  baseUrl,
   organizationName: 'Satyam',
   projectName: 'Como-Pienso',
   favicon: 'img/horse.png',
@@ -47,6 +49,11 @@ module.exports = {
           to: 'docs/',
           label: 'Inicio',
           position: 'left',
+        },
+        {
+          href: url + baseUrl + 'Como-Pienso.pdf',
+          label: 'pdf',
+          position: 'right',
         },
       ],
     },

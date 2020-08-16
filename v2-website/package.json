@@ -5,10 +5,11 @@
     "build": "docusaurus build",
     "version": "docusaurus-version",
     "rename-version": "docusaurus-rename-version",
-    "pdf": "docusaurus-pdf http://localhost:3000/Como-Pienso/intro/ src/static/Como-Pienso.pdf",
+    "pdf": "docusaurus-pdf http://localhost:3000/Como-Pienso/docs static/Como-Pienso.pdf",
     "swizzle": "docusaurus swizzle",
     "deploy": "GIT_USER=Satyam  CURRENT_BRANCH=master USE_SSH=true docusaurus deploy",
-    "docusaurus": "docusaurus"
+    "docusaurus": "docusaurus",
+    "serve": "docusaurus serve"
   },
   "devDependencies": {
     "docusaurus-pdf": "^1.2.0"
