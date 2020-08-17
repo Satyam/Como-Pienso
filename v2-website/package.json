@@ -9,7 +9,8 @@
     "swizzle": "docusaurus swizzle",
     "deploy": "GIT_USER=Satyam  CURRENT_BRANCH=master USE_SSH=true docusaurus deploy",
     "docusaurus": "docusaurus",
-    "serve": "docusaurus serve"
+    "preserve": "docusaurus build --out-dir build/Como-Pienso",
+    "serve": "echo \"Go to:  http://localhost:3000/Como-Pienso\" && docusaurus serve >/dev/null"
   },
   "devDependencies": {
     "docusaurus-pdf": "^1.2.0"
