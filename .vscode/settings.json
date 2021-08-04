@@ -1,4 +1,8 @@
 {
   "cSpell.language": "es",
-  "cSpell.enabled": true
+  "cSpell.enabled": true,
+  "cSpell.ignorePaths": [
+    "**/node_modules/**",
+    "**/v2-website/**"
+  ],
 }

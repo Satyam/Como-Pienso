@@ -17,7 +17,6 @@ module.exports = {
       '@docusaurus/preset-classic',
       {
         docs: {
-          homePageId: 'intro',
           showLastUpdateAuthor: true,
           showLastUpdateTime: true,
           path: '../docs',
@@ -30,7 +29,6 @@ module.exports = {
           customCss: require.resolve('./src/css/customTheme.css'),
         },
         sitemap: {
-          cacheTime: 600 * 1000, // 600 sec - cache purge period
           changefreq: 'weekly',
           priority: 0.5,
         },

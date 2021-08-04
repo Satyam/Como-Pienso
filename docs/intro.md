@@ -1,5 +1,6 @@
 ---
 title: Introducción
+slug: /
 ---
 
 Mi padre decía que un ministro de la primera época de Perón escribió un libro donde expresaba su forma de pensar. Lo llamó "Cómo pienso". Los vivos de la época decían que era natural que, siendo tan burro :horse:, comiera pienso.

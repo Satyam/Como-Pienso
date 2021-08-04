@@ -1,4 +1,6 @@
 {
+  "author": "Daniel Barreiro <satyam@satyam.com.ar> (Satyam)",
+  "license": "MIT",
   "scripts": {
     "examples": "docusaurus-examples",
     "start": "docusaurus start",
@@ -16,10 +18,10 @@
     "docusaurus-pdf": "^1.2.0"
   },
   "dependencies": {
-    "@docusaurus/core": "^2.0.0-alpha.61",
-    "@docusaurus/preset-classic": "2.0.0-alpha.59",
+    "@docusaurus/core": "^2.0.0-beta.4",
+    "@docusaurus/preset-classic": "^2.0.0-beta.4",
     "clsx": "^1.1.1",
-    "react": "^16.10.2",
-    "react-dom": "^16.10.2"
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
   }
 }
